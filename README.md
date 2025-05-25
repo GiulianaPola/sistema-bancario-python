@@ -1,7 +1,3 @@
-Claro! Vou deixar o README ainda mais profissional, organizado, atraente e com um tom mais envolvente para destacar seu trabalho. Vou adicionar badges, melhorar a formatação, e ajustar a linguagem para ser mais fluida e clara, sem perder o foco técnico e comportamental.
-
----
-
 # Sistema Bancário em Python – Bootcamp DIO Suzano
 
 ![Python](https://img.shields.io/badge/python-3.x-blue?logo=python\&style=flat-square) ![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![Status](https://img.shields.io/badge/status-completo-brightgreen?style=flat-square)
